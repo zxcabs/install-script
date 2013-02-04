@@ -9,4 +9,4 @@ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv 7F0CEB10
 
 apt-get update
 apt-get upgrade
-apt-get install nano git make gcc fail2ban redis-server mongodb-10gen nginx nodejs-dev npm
+apt-get install nano git make gcc redis-server mongodb-10gen nginx nodejs-dev npm
