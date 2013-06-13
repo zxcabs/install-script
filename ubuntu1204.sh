@@ -9,4 +9,4 @@ echo 'deb http://downloads-distro.mongodb.org/repo/ubuntu-upstart dist 10gen' > 
 apt-key adv --keyserver keyserver.ubuntu.com --recv 7F0CEB10
 
 apt-get update
-apt-get -y install nano git redis-server mongodb-10gen nginx npm
+apt-get -y install nano git redis-server mongodb-10gen nginx nodejs npm
